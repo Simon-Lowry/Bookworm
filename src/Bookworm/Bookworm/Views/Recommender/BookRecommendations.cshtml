@@ -1,0 +1,104 @@
+﻿@model Bookworm.ViewModels.Recommendations.RecommendationsViewModel
+
+@{
+    ViewBag.Title = "Recommendations View";
+}
+
+@Html.Partial("~/Views/PartialViews/Navbars/LoggedInNavBar.cshtml")
+
+<body id="recommenderBody">
+<div class="container" style="margin-top:2%">
+    <div class="panel">
+        <div class="panel-heading" id="recommenderPanelHeader">
+            <H2>Book Recommendations</H2>
+            <h4> <i>Your recommendations have been honed and selected based on your preferences</i></h4>
+            <br />
+        </div>
+        <div class="panel-body">
+            @if (Model.BooksRecommended.Count > 0)
+            {
+                for (int i = 0; i < Model.BooksRecommended.Count; i++)
+                {
+                    var book = @Model.BooksRecommended[i];
+                    <div class="col-sm-3">
+                        <div class="bookOverlayContainer" style="margin-bottom: 5%">
+
+                            @if (@book.BookImgUrl != "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png")
+                            {
+                                <a href='@Url.Action("BookProfile", "Books", new { bookId = @book.BookId })'>
+                                    <img src=@book.BookImgUrl class="bookImg">
+                                </a>
+                            }
+                            else
+                            {
+                                <a href='@Url.Action("BookProfile", "Books", new { bookId = @book.BookId })'>
+                                    <img src="~/Images/bookworm.jpg" class="bookImg" >
+                                </a>
+                            }
+
+                            <a href='@Url.Action("BookProfile", "Books", new { bookId = Model.BooksRecommended[i].BookId })'>
+                                <div class="bookOverlay">
+                                    <div class="bookOverlaytext">
+                                        @Model.BooksRecommended[i].Title<br /> <br />
+                                        Authors: @Model.BooksRecommended[i].Authors <br />
+                                        Avg Rating: @Model.BooksRecommended[i].AvgRating <br />
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                }
+            } 
+            
+            @if (Model.BooksRecommended.Count == 0){
+              <i>Unfortunately at this moment you haven't recommended enough books, please come back when you've reviewed some more.</i>
+            }
+        </div>
+    </div>
+</div>
+
+<div class="container" style="margin-top:2%">
+    <div class="panel panel-success">
+        <div class="panel-heading" id="recommenderPanelHeader">
+            <H2>Books By Authors You Like</H2>
+            <h4> <i>Some books you haven't read by authors you've rated well</i></h4>
+            <br />
+        </div>
+        <div class="panel-body">
+
+            @for (int i = 0; i < Model.BooksByUsersFavouriteAuthors.Count; i++)
+            {
+                var book = @Model.BooksByUsersFavouriteAuthors[i];
+                <div class="col-sm-3">
+                    <div class="bookOverlayContainer" style="margin-bottom: 5%">
+
+                        @if (@book.BookImgUrl != "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png")
+                        {
+                            <a href='@Url.Action("BookProfile", "Books", new {bookId = @book.BookId})'>
+                                <img src=@book.BookImgUrl class="bookImg">
+                            </a>
+                        }
+                        else
+                        {
+                            <a href='@Url.Action("BookProfile", "Books", new {bookId = @book.BookId})'>
+                                <img src="~/Images/bookworm.jpg" class="img-circle" alt="Connection Profile Image">
+                            </a>
+                        }
+
+                        <a href='@Url.Action("BookProfile", "Books", new {bookId = @book.BookId})'>
+                            <div class="bookOverlay">
+                                <div class="bookOverlaytext">
+                                    @book.Title<br /> <br />
+                                    Authors: @book.Authors <br />
+                                    Avg Rating: @book.AvgRating <br />
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+</body>

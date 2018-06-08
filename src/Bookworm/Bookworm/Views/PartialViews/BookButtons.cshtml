@@ -1,0 +1,34 @@
+﻿@model Bookworm.ViewModels.Books.BookViewModel
+
+@{
+    if (@Model.HasCreatedReview == true)
+    {
+        <div class="col-xs-3 col-sm-3 col-md-3">
+            <button type="button" class="btn btn-success btn-lg" data-toggle="modal" data-target="#editBookReviewModal">Edit Review</button>
+        </div>
+    }
+    else
+    {
+        <div class="col-xs-3 col-sm-3 col-md-3">
+            <button type="button" class="btn btn-success btn-lg" data-toggle="modal" data-target="#createBookReviewModal">Create Review</button>
+        </div>
+    }
+}
+
+@{
+    <div class="col-md-2"></div>
+    if (@Model.IsOnBookShelf == true)
+    {
+        
+        <div class="col-xs-3 col-sm-3 col-md-3">
+            <button type="button" class="btn btn-danger btn-lg" onclick="location.href = '@Url.Action("DeleteBookFromBookShelf", "Books", @Model.BookToRead)'">Remove From Book Shelf</button>
+        </div>
+    }
+    else
+    {
+        <div class="col-xs-3 col-sm-3 col-md-3">
+            <button type="button" class="btn btn-primary btn-lg" onclick="location.href = '@Url.Action("AddBookToBookShelf", "Books", @Model.BookToRead)'">Add to My Book Shelf</button>
+        </div>
+    }
+
+}

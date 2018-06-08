@@ -1,0 +1,18 @@
+﻿@model Bookworm.ViewModels.Profiles.CombinedUserProfilesViewModel
+
+<div id="otherUserMainPanel">
+    <div class="row" align="center">
+        <br /><br />
+        <img src=@Model.OtherUserDetails.ProfileImgUrl class="img-circle" alt="Profile Image" width="300">
+    </div>
+
+
+    <div class="row" align="center">
+        <h1 style="color:white">
+            @Model.OtherUserDetails.FirstName @Model.OtherUserDetails.LastName <br />
+            @Model.OtherUserDetails.City, @Model.OtherUserDetails.Country <br /><br />
+        </h1>
+        <button type="button" class="btn btn-info btn-lg" onclick="location.href = '@Url.Action("CreateConnectionBetweenUsers", "Profiles", @Model)'">Create Connection</button>
+        <br /><br /><br /><br />
+    </div>
+</div>

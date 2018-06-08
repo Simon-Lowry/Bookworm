@@ -1,0 +1,649 @@
+C:\Dev\SportsStore\Bookworm\Bookworm\obj\Debug\Bookworm.csprojResolveAssemblyReference.cache
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\ApplicationInsights.config
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\csc.exe
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\csc.exe.config
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\csc.rsp
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\csi.exe
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\csi.rsp
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\System.AppContext.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\vbc.exe
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\vbc.exe.config
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\vbc.rsp
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Bookworm.dll.config
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Bookworm.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Bookworm.pdb
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Antlr3.Runtime.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.Web.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Newtonsoft.Json.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.Helpers.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.Mvc.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.Optimization.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.Razor.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\WebGrease.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.Helpers.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.Mvc.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.Optimization.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.Razor.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Antlr3.Runtime.pdb
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Newtonsoft.Json.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.Web.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\obj\Debug\Bookworm.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\obj\Debug\Bookworm.pdb
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Autofac.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\FluentValidation.dll
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Autofac.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.xml
+C:\Dev\SportsStore\Bookworm\Bookworm\bin\FluentValidation.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\ApplicationInsights.config
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\csc.exe
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\csc.exe.config
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\csc.rsp
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\csi.exe
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\csi.rsp
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\System.AppContext.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\vbc.exe
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\vbc.exe.config
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\vbc.rsp
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Bookworm.dll.config
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Bookworm.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Bookworm.pdb
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Antlr3.Runtime.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Autofac.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\FluentValidation.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.Web.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Newtonsoft.Json.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.Helpers.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.Mvc.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.Optimization.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.Razor.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\WebGrease.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Autofac.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\FluentValidation.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.Helpers.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.Mvc.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.Optimization.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.Razor.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Antlr3.Runtime.pdb
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Newtonsoft.Json.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\bin\Microsoft.AI.Web.xml
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\obj\Debug\Bookworm.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\obj\Debug\Bookworm.dll
+C:\Users\Simon\Documents\4th Year Project\SportsStore\Bookworm\Bookworm\obj\Debug\Bookworm.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\ApplicationInsights.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.exe
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.exe.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.rsp
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csi.exe
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csi.rsp
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.AppContext.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.exe
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.exe.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.rsp
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.dll.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Antlr3.Runtime.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.SqlServer.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\FluentValidation.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Web.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Newtonsoft.Json.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Helpers.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Mvc.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Optimization.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Razor.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\WebGrease.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.SqlServer.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\FluentValidation.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Helpers.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Mvc.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Optimization.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Razor.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Antlr3.Runtime.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Newtonsoft.Json.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Web.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csprojResolveAssemblyReference.cache
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.Firstmigrationsetup.resources
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.GenerateResource.Cache
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.addeddescriptioncolumntobookmodel.resources
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\C5.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MyMediaLite.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Mono.Posix.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MyMediaLite.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.ConsolidateRatingsInBookTable.resources
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Net.Http.Formatting.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Http.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Net.Http.Formatting.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Http.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.AddedToReadIdAsKeyForToReadsTable.resources
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.AddedConnectionModelAndTable.resources
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\ApplicationInsights.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.exe
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.exe.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.rsp
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csi.exe
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csi.rsp
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.AppContext.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Collections.Immutable.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.exe
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.exe.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.rsp
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.dll.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Antlr3.Runtime.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\C5.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.SqlServer.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\FluentValidation.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Web.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.Web.Infrastructure.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MyMediaLite.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Newtonsoft.Json.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Net.Http.Formatting.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Helpers.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Http.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Mvc.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Optimization.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Razor.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\WebGrease.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Mono.Posix.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.SqlServer.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\FluentValidation.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MyMediaLite.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Net.Http.Formatting.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Http.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Helpers.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Mvc.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Optimization.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Razor.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Antlr3.Runtime.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Newtonsoft.Json.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Web.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csprojResolveAssemblyReference.cache
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.Firstmigrationsetup.resources
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.addeddescriptioncolumntobookmodel.resources
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.ConsolidateRatingsInBookTable.resources
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.AddedToReadIdAsKeyForToReadsTable.resources
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.AddedConnectionModelAndTable.resources
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.GenerateResource.cache
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.CoreCompileInputs.cache
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.CopyComplete
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.ProfileImgAddedToProfileTable.resources
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\ApplicationInsights.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.exe
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.exe.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.rsp
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csi.exe
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csi.rsp
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.AppContext.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.exe
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.exe.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.rsp
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.dll.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Antlr3.Runtime.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\C5.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.SqlServer.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\FluentValidation.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Web.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MyMediaLite.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Newtonsoft.Json.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Net.Http.Formatting.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Helpers.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Http.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Mvc.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Optimization.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Razor.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\WebGrease.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Mono.Posix.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.SqlServer.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\FluentValidation.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MyMediaLite.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Net.Http.Formatting.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Http.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Helpers.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Mvc.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Optimization.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Razor.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Antlr3.Runtime.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Newtonsoft.Json.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Web.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csprojResolveAssemblyReference.cache
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.Firstmigrationsetup.resources
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.addeddescriptioncolumntobookmodel.resources
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.ConsolidateRatingsInBookTable.resources
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.AddedToReadIdAsKeyForToReadsTable.resources
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.AddedConnectionModelAndTable.resources
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.ProfileImgAddedToProfileTable.resources
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.GenerateResource.cache
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.CoreCompileInputs.cache
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.CopyComplete
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\NReco.Recommender.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\NReco.Recommender.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\ApplicationInsights.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.exe
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.exe.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.rsp
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csi.exe
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csi.rsp
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.AppContext.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.exe
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.exe.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.rsp
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.dll.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Antlr3.Runtime.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\C5.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.SqlServer.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\FluentValidation.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Web.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MyMediaLite.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Newtonsoft.Json.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\NReco.Recommender.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Net.Http.Formatting.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Helpers.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Http.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Mvc.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Optimization.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Razor.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\WebGrease.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Mono.Posix.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.SqlServer.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\FluentValidation.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MyMediaLite.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\NReco.Recommender.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Net.Http.Formatting.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Http.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Helpers.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Mvc.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Optimization.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Razor.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Antlr3.Runtime.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Newtonsoft.Json.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Web.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csprojResolveAssemblyReference.cache
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.Firstmigrationsetup.resources
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.addeddescriptioncolumntobookmodel.resources
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.ConsolidateRatingsInBookTable.resources
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.AddedToReadIdAsKeyForToReadsTable.resources
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.AddedConnectionModelAndTable.resources
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.ProfileImgAddedToProfileTable.resources
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.GenerateResource.cache
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.CoreCompileInputs.cache
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.CopyComplete
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\ApplicationInsights.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.exe
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.exe.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csc.rsp
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csi.exe
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\csi.rsp
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.AppContext.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.exe
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.exe.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\vbc.rsp
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.dll.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Bookworm.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Antlr3.Runtime.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\C5.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.SqlServer.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\FluentValidation.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Web.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MyMediaLite.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Newtonsoft.Json.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\NReco.Recommender.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Net.Http.Formatting.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Helpers.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Http.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Mvc.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Optimization.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Razor.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\WebGrease.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Mono.Posix.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Autofac.Integration.Mvc.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\EntityFramework.SqlServer.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\FluentValidation.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MathNet.Numerics.IO.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\MyMediaLite.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\NReco.Recommender.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Net.Http.Formatting.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Http.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Helpers.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Mvc.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Optimization.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.Razor.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Deployment.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\System.Web.WebPages.Razor.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Antlr3.Runtime.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Newtonsoft.Json.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.ApplicationInsights.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.DependencyCollector.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.WindowsServer.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\bin\Microsoft.AI.Web.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.Firstmigrationsetup.resources
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.addeddescriptioncolumntobookmodel.resources
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.ConsolidateRatingsInBookTable.resources
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.AddedToReadIdAsKeyForToReadsTable.resources
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.AddedConnectionModelAndTable.resources
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.Migrations.ProfileImgAddedToProfileTable.resources
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.GenerateResource.cache
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.CoreCompileInputs.cache
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csproj.CopyComplete
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\Bookworm\obj\Debug\Bookworm.csprojAssemblyReference.cache

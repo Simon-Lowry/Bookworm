@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div id="topSectionOfHomePage">
+   
+    <br />
+    @Html.Partial("~/Views/PartialViews/Navbars/NotLoggedInNavBar.cshtml")
+
+    <div class="hiddenText">
+        <p style='font-size:150px; color: white;z-index: 2;'>Bookworm</p>
+    </div>
+    <div class="hiddenText2">
+        <p style='font-size:50px; color: white; z-index: 2;'><i>A place for book lovers</i></p>
+    </div>
+
+</div>
+
+    <div class="row" style="padding-top:10%; padding-left:5%; padding-right:5%; padding-bottom: 5%;">
+        <div class="col-md-3">
+            <h2>Book Reviews</h2>
+            <p>
+                You can make book reviews and share your insights with the Bookworm community.
+            </p>
+            
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-3">
+            <h2>Recommender System</h2>
+            <p>Bookworm makes use of a powerful recommender system which tailors books refernces for your. A number of recommendations will be visible for you to
+            choose from and gain new and great books to read</p>
+           
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-3">
+            <h2>Make Connections</h2>
+            <p>You will be able to make connections with like minded bookworms and read and see their book reviews.</p>
+            
+        </div>
+    </div>
+
+    <div class="row" style="padding-left: 5%; padding-right: 5%; padding-bottom: 1%;">
+
+        <div class="col-md-4"> <img src="~/Images/bookworm.jpg" style="width: 80%; height: 80%; margin:0"></div>
+        <div class="col-md-4">
+            <p style="font-size: 20px;">Visit us at:</p>
+            <i class="fa fa-facebook-square" style="font-size: 72px; padding-right: 5%; color: blue"></i>
+            <i class="fa fa-twitter-square" style="font-size: 72px; padding-right: 5%; color: blue"></i>
+            <i class="fa fa-youtube" style="font-size:72px;color:red"></i>
+        </div>
+        <div class="col-md-4"> <img src="~/Images/bookworm.jpg" style="width: 80%; height: 80%;"></div>
+    </div>
+
+

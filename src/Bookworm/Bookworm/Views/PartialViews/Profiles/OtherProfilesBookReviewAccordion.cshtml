@@ -1,0 +1,64 @@
+﻿@model Bookworm.ViewModels.Profiles.CombinedUserProfilesViewModel
+
+
+@{
+
+    int loopSize = (@Model.OtherUsersBookReviews.MyBookReviews.Count >= 11) ? 11 : @Model.OtherUsersBookReviews.MyBookReviews.Count;
+
+}
+
+<row>
+    <div class="col-xs-3 col-sm-3 col-md-3" align="center" style="margin: 0 auto;">
+        <button type="button" class="btn btn-info btn-lg" onclick="location.href = '@Url.Action("MyBookReviews", "Profiles")'">View All Book Reviews</button>
+    </div>
+</row>
+<row>
+    @for (var z = 0; z < loopSize; z++)
+    {
+
+        var book = @Model.OtherUsersBookReviews.MyBookReviewsBookDetails[z];
+        var bookReview = @Model.OtherUsersBookReviews.MyBookReviews[z];
+
+        <div class="col-sm-3">
+
+            <div class="col-sm-3">
+                <div class="bookOverlayContainer" style="margin-bottom: 5%">
+
+                    @if (@book.BookImgUrl != "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png")
+                    {
+                        <a href='@Url.Action("BookProfile", "Books", new {bookId = @book.BookId})'>
+                            <img src=@book.BookImgUrl class="bookImg">
+                        </a>
+                    }
+                    else
+                    {
+                        <a href='@Url.Action("BookProfile", "Books", new {bookId = @book.BookId})'>
+                            <img src="~/Images/bookworm.jpg" class="img-circle" alt="Connection Profile Image">
+                        </a>
+                    }
+
+                    <a href='@Url.Action("BookProfile",
+                                 "Books", new {bookId = @book.BookId})'>
+                        <div class="bookOverlay">
+                            <div class="bookOverlaytext">
+                                @book.Title<br /> <br />
+                                Authors:  @book.Authors <br />
+                                My Rating:  @bookReview.Rating <br />
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+
+    }
+
+    }
+</row>
+
+@if (loopSize < 1)
+{
+    <p><i>User curently has no reviews. Search out books to review using the search feature at the top of the page!</i></p>
+}

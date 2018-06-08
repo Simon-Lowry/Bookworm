@@ -1,0 +1,13 @@
+﻿
+<div class="navbar navbar-default" id="noLoggedInNav" style="font-size:18px">
+    <div class="navbar-header">
+        <img src="~/Images/bookworm.jpg" style="width: 15%; height: 15%; margin:0">
+        @Html.ActionLink("Bookworm", "Index", "Home", new {area = ""}, new {@class = "navbar-brand"})
+    </div>
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="/SignUp/SigningUp"><span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;Sign Up</a></li>
+            <li><a href="/Login/LoginPage"><span class="glyphicon glyphicon-log-in"></span>&nbsp;&nbsp;Login</a></li>
+        </ul>
+    </div>
+</div>

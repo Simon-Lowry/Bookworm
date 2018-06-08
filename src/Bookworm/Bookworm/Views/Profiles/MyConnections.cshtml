@@ -1,0 +1,53 @@
+﻿@model Bookworm.ViewModels.Profiles.MyConnectionDetails
+
+@{
+    ViewBag.Title = "My Connections View";
+}
+
+@Html.Partial("~/Views/PartialViews/Navbars/LoggedInNavBar.cshtml")
+
+<body id="myConnectionsBody">
+<div class="container" style="margin-top:2%">
+    <div class="panel panel-success">
+        <div class="panel-heading" id="recommenderPanelHeader">
+            <H2>My Connections</H2>
+            <h4> <i>The connections you've already made.</i></h4>
+            <br />
+        </div>
+        <div class="panel-body" >
+     
+            @for (int i = 0; i < Model.ConnectionsProfileDetails.Count; i++)
+            {
+                var connection = Model.ConnectionsProfileDetails[i];
+
+                <div class="col-sm-3">
+                    <div class="bookOverlayContainer" style="margin-bottom: 5%">
+
+                        @if (@connection.ProfileImgUrl != null)
+                        {
+                            <a href='@Url.Action("OtherUsersProfile", "Profiles", new {otherUsersId = connection.UserId})'>
+                                <img src=@connection.ProfileImgUrl class="bookImg">
+                            </a>
+                        }
+                        else
+                        {
+                            <a href='@Url.Action("OtherUsersProfile", "Profiles", new {otherUsersId = connection.UserId})'>
+                                <img src="~/Images/bookworm.jpg" class="img-circle" alt="Connection Profile Image">
+                            </a>
+                        }
+                        <a href='@Url.Action("OtherUsersProfile", "Profiles", new {otherUsersId = connection.UserId})'>
+                            <div class="bookOverlay">
+                                <div class="bookOverlaytext">
+                                    @connection.FirstName @connection.LastName<br /> <br />
+                                    City: @connection.City <br />
+                                    Count: @connection.Country
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+</body>

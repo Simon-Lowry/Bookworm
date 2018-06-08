@@ -1,0 +1,37 @@
+﻿@model Bookworm.ViewModels.Books.BookViewModel
+
+<!-- A  read only modal for reviews that have already been created by users -->
+
+<div class="modal fade" id="readOnlyBookReviewModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" align="center">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">Book Review</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" id="readOnlyBookReviewModalBody">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-12 ml-auto"><h3><b>@Model.BookDetails.Title</b></h3></div>
+                    </div>
+                    <div class="row" margin-top="20px">
+                        <div class="col-md-12 ml-auto"><h4><em>@Model.BookDetails.Authors</em></h4></div>
+                    </div> <br />
+                    <p>
+                        
+                        Rating: @Model.BookReview.Rating<br/>
+                        Description: 
+                        <br/>@Model.BookReview.Description
+                    </p>
+                        <div class="modal-footer" align="center">
+                            <button type="button" class="btn btn-lg" data-dismiss="modal">Close</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,89 @@
+﻿@model Bookworm.ViewModels.Profiles.MyProfileViewModel
+
+
+@{
+    ViewBag.Title = "My Profile";
+}
+
+@Html.Partial("~/Views/PartialViews/Navbars/LoggedInNavBar.cshtml")
+
+<body id="myProfileScreen">
+    <div class="container-fluid">
+        <div class="row" align="center">
+            <br /><br />
+            <div class="col-sm-6 col-md-6 ">
+                @if (@Model.MyDetails.ProfileImgUrl != null)
+                {
+                    <img src=@Model.MyDetails.ProfileImgUrl class="img-circle" alt="Profile Image" style="width:42%">
+                }
+                else
+                {
+                    <img src="~/Images/bookworm.jpg" class="img-circle" alt="Profile Image" style="width:42%">
+                }
+            </div>
+
+            <div class="col-md-3 col-sm-3">
+                <div class="panel">
+                    <div class="panel-heading" id="panels"><h2>@Model.MyDetails.FirstName's Profile</h2></div>
+                    <div class="panel-body">
+                        <h4>
+                            @Model.MyDetails.FirstName @Model.MyDetails.LastName <br /><br />
+                            Country: @Model.MyDetails.Country<br /><br />
+                            Date of Birth: @Model.MyDetails.DOB<br /><br />
+                            Email: @Model.MyDetails.Email<br /><br />
+                        </h4>
+                    </div>
+                </div>
+                <br />
+            </div>
+            <div class="col-md-2 col-sm-2"></div>
+            <br /><br />
+
+        </div>
+
+        <div class="row" align="center" style="margin-top: 5%; font-size: 16px;">
+            <button class="accordion"><h4 class="panel-title">My Connections </h4></button>
+            <div class="panel" id="accodionPanel">
+               
+                @Html.Partial("~/Views/PartialViews/Profiles/ProfilesConnectionsAccordion.cshtml", Model)
+            </div>
+
+            <button class="accordion"><h4 class="panel-title">My Book Reviews</h4></button>
+            <div class="panel" id="accodionPanel">
+                
+                @Html.Partial("~/Views/PartialViews/Profiles/ProfilesBookReviewsAccordion.cshtml", Model)
+            </div>
+            <button class="accordion">
+                <h4 class="panel-title">My Book Shelf - To Read</h4>
+            </button>
+            <div class="panel" id="accodionPanel">
+                
+                @Html.Partial("~/Views/PartialViews/Profiles/ProfilesToReadAccordion.cshtml", Model)
+            </div>
+            </div>
+            <br /><br />
+
+     </div>
+
+    <script>
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+
+        for (i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function () {
+                /* Toggle between adding and removing the "active" class,
+                to highlight the button that controls the panel */
+                this.classList.toggle("active");
+
+                /* Toggle between hiding and showing the active panel */
+                var panel = this.nextElementSibling;
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                } else {
+                    panel.style.display = "block";
+                }
+            });
+        }
+    </script>
+
+</body>

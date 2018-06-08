@@ -1,0 +1,121 @@
+﻿@model Bookworm.ViewModels.Search.SearchResultsViewModel
+
+@{
+	ViewBag.Title = "Search View";
+}
+
+
+@Html.Partial("~/Views/PartialViews/Navbars/LoggedInNavBar.cshtml")
+	
+<body id="searchBody">
+    <div class="container">
+        <div class="panel" style="margin-top: 4%">
+            <div class="panel-heading" id="recommenderPanelHeader"><h2>Search Results</h2></div>
+            <div class="panel-body">
+                <ul class="nav nav-tabs" style="font-size: 18px; ">
+                    <li class="active"><a data-toggle="tab" href="#books">Books</a></li>
+
+                    <li><a data-toggle="tab" href="#users">Users</a></li>
+                </ul>
+
+                <div class="tab-content">
+                    <div id="books" class="tab-pane fade in active">
+                        @if (@Model.Books != null)
+                        {
+                            foreach (var book in @Model.Books)
+                            {
+                                    <div class="row">
+                                        <div class="item" style="margin-left: 2%">
+                                            <h3>
+
+                                                @Html.ActionLink(@book.Title, "BookProfile", "Books", new { @book.BookId },
+                            new { @style = "color:black" })
+                                            </h3><br />
+                                            <div class="col-xs-2 col-sm-2 col-md-2">
+
+                                                @if (@book.BookImgUrl != "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png")
+                                                {
+                                    <img src=@book.BookImgUrl height="170" width="150" />
+                                                }
+                                                else
+                                                {
+                                            <img src="~/Images/bookworm.jpg" height="170" width="150" />
+                                                }
+                            </div>
+                            <div class="col-xs-6 col-sm-6 col-md-6">
+                                <div style="font-size: 18px; ">
+                                    Author(s): @book.Authors <br />
+                                    Avg Rating: @book.AvgRating
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <br /><br />
+                    <hr />
+                            }
+                        }else
+                        {
+                            <p>
+                                No books were found using for the given search query.
+                            </p>
+                         }
+
+                    </div>
+                    <div id="users" class="tab-pane fade">
+                        <br /><br /><br />
+                        @if (Model.Users != null)
+                        {
+                        foreach (var user in @Model.Users)
+                        {
+                                    <div class="row">
+
+
+
+                                        <div class="col-xs-3 col-sm-3 col-md-3">
+                                            @if (@user.ProfileImgUrl != null)
+                                             {
+                                    <a href='@Url.Action("OtherUsersProfile", "Profiles", new {otherUsersId = @user.UserId})'>
+                                        <img src=@user.ProfileImgUrl class="bookImg">
+                                    </a>
+                                        }
+                                        else
+                                        {
+                                    <a href='@Url.Action("OtherUsersProfile", "Profiles", new {otherUsersId = @user.UserId})'>
+                                        <img src="~/Images/bookworm.jpg" class="img-circle" alt="Connection Profile Image">
+                                    </a>
+                        }
+                                        </div>
+
+
+                                        <div class="col-xs-6 col-sm-6 col-md-6" font-size="">
+
+                                            <h4>
+                                                @Html.ActionLink(@user.FirstName + " " + @user.LastName, "OtherUsersProfile", "Profiles"
+                                                    , new { otherUsersId = @user.UserId })
+                                            </h4>
+                                            <br />
+                                            @user.City <br />
+                                            @user.Country <br />
+                                            <br />
+
+                                        </div>
+                                        <hr />
+                                    </div>
+                            }
+                            }
+                            else
+                            {
+                                                <p>
+                                                    <br />No users were found using for the given search query.
+                                                </p>
+                            }
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+

@@ -1,0 +1,59 @@
+﻿@model Bookworm.ViewModels.Profiles.MyProfileViewModel
+
+
+@{
+
+    int loopSize = (@Model.MyToReadBookDetails.Count >= 11) ? 11 : @Model.MyToReadBookDetails.Count;
+}
+
+<row>
+    <div class="col-xs-3 col-sm-3 col-md-3" align="center" style="margin: 0 auto;">
+        <button type="button" class="btn btn-info btn-lg" onclick="location.href = '@Url.Action("MyBookShelf", "Profiles")'">View All Book Shelf</button>
+    </div>
+</row>
+<row>
+    @for (int i = 0; i < @Model.MyToReadBookDetails.Count; i++)
+    {
+        var book = @Model.MyToReadBookDetails[i];
+
+        <div class="col-sm-3">
+
+            <div class="col-sm-3">
+                <div class="bookOverlayContainer" style="margin-bottom: 5%">
+                    @if (@book.BookImgUrl != "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png")
+                    {
+                        <a href='@Url.Action("BookProfile", "Books", new {bookId = @book.BookId})'>
+                            <img src=@book.BookImgUrl class="bookImg">
+                        </a>
+                    }
+                    else
+                    {
+                        <a href='@Url.Action("BookProfile", "Books", new {bookId = @book.BookId})'>
+                            <img src="~/Images/bookworm.jpg" class="img-circle" alt="Connection Profile Image">
+                        </a>
+                    }
+
+                    <a href='@Url.Action("BookProfile",
+                             "Books", new {bookId = @book.BookId})'>
+                        <div class="bookOverlay">
+                            <div class="bookOverlaytext">
+                                @book.Title<br /> <br />
+                                Authors:  @book.Authors <br />
+                                Avg Rating: @book.AvgRating <br />
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+    }
+</row>
+@if (loopSize < 1)
+{
+    <p><i>No books currently on book shelf.  Search out new books using the search feature at the top of the page or using
+        the recommender selection!</i></p>
+}
+
+

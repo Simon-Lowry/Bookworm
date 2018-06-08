@@ -1,0 +1,82 @@
+﻿@model  Bookworm.ViewModels.Home.UserSignUpViewModel
+
+@{
+	ViewBag.Title = "SignUp";
+}
+
+
+<body background="~/Images/Home/library2.jpg" style="color:black">
+    
+<div class="container-fluid">
+    @Html.Partial("~/Views/PartialViews/Navbars/NotLoggedInNavBar.cshtml")
+	
+	<div class="row" style="margin-top:2%">
+		<div class="col-lg-4 col-md-4 col-sm-4"></div>
+		<div class="col-lg-4 col-md-4 col-sm-4" id="hello" >
+
+			<br />
+			@using (Html.BeginForm("SigningUp", "SignUp", FormMethod.Post))
+			{
+
+				<h2 align="center">Sign Up</h2>
+				<div class="form-group" align="center">
+					
+						<div class="formInput">
+							@Html.Label("First Name")
+							@Html.TextBoxFor(model => model.FirstName, new { placeholder = "First Name", @class = "form-control" })
+							@Html.ValidationMessageFor(model => model.FirstName)
+						</div>
+						<div class="formInput">
+							@Html.Label("Last Name")
+							@Html.TextBoxFor(model => model.LastName, new { placeholder = "Last Name", @class = "form-control" })
+							@Html.ValidationMessageFor(model => model.LastName)
+						</div>
+						<div class="formInput">
+							@Html.Label("Date of Birth")
+							@Html.TextBoxFor(model => model.DOB, new { placeholder = "DD/MM/YYYY", @class = "form-control" })
+							@Html.ValidationMessageFor(model => model.DOB)
+						</div>
+						<div class="formInput">
+							@Html.Label("City")
+							@Html.TextBoxFor(model => model.City, new { placeholder = "City", @class = "form-control" })
+							@Html.ValidationMessageFor(model => model.City)
+						</div>
+						<div class="formInput">
+							@Html.Label("Country")
+							@Html.TextBoxFor(model => model.Country, new { placeholder = "Country", @class = "form-control" })
+							@Html.ValidationMessageFor(model => model.Country)
+						</div>
+						<div class="formInput">
+							@Html.Label("Email")
+							@Html.TextBoxFor(model => model.Email, new { placeholder = "Email Address", @class = "form-control" })
+							@Html.ValidationMessageFor(model => model.Email)
+						</div>
+						<div class="formInput">
+							@Html.Label("Password")
+							@Html.TextBoxFor(model => model.Password, new { placeholder = "Password", @class = "form-control", @type = "password" })
+							@Html.ValidationMessageFor(model => model.Password)
+						</div>
+						<div class="formInput">
+							@Html.Label("Confirm Password")
+							@Html.TextBoxFor(model => model.ConfirmPassword, new { placeholder = "Confirm Password", @class = "form-control", @type = "password" })
+							@Html.ValidationMessageFor(model => model.ConfirmPassword)
+						</div>
+					</div>
+					<div class="row" align="center">
+						<div class="col-xs-4 col-sm-4 col-md-4" align="center"></div>
+						<div class="col-xs-4 col-sm-4 col-md-4" align="center">
+							<input type="submit" class="btn btn-lg btn-primary btn-block" value="Sign Up">
+						</div>
+					</div>
+			}
+			<br /><br />
+		</div>
+
+	</div>
+
+</div>
+	@section Scripts {
+		@Scripts.Render("~/bundles/jqueryval")
+		@Scripts.Render("~/bundles/jquery.validate.unobtrusive.min.js")
+	}
+</body>

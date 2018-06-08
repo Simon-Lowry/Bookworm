@@ -1,0 +1,421 @@
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csprojResolveAssemblyReference.cache
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\ApplicationInsights.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.exe
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.exe.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.rsp
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csi.exe
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csi.rsp
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.AppContext.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.exe
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.exe.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.rsp
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\VBCSCompiler.exe
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.dll.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\nunit.framework.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Optimization.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FluentValidation.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MyMediaLite.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.Integration.Mvc.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Razor.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Razor.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\WebGrease.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\C5.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Mono.Posix.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Newtonsoft.Json.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Antlr3.Runtime.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.dll.config
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\nunit.framework.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Optimization.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FluentValidation.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MyMediaLite.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\EntityFramework.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.Integration.Mvc.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Newtonsoft.Json.xml
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Antlr3.Runtime.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.ComponentModel.Primitives.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.dll
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.pdb
+C:\Dev\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csprojResolveAssemblyReference.cache
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csproj.CoreCompileInputs.cache
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\ApplicationInsights.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.exe
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.exe.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.rsp
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csi.exe
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csi.rsp
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.AppContext.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Collections.Immutable.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.IO.FileSystem.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Reflection.Metadata.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.exe
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.exe.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.rsp
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\VBCSCompiler.exe
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\VBCSCompiler.exe.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.dll.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\C5.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Fare.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FluentValidation.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MyMediaLite.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\nunit.framework.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.ComponentModel.Primitives.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Optimization.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.Integration.Mvc.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Mono.Posix.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Razor.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Razor.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.Web.Infrastructure.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\WebGrease.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Deployment.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Newtonsoft.Json.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Antlr3.Runtime.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.dll.config
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\EntityFramework.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Fare.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FluentValidation.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MyMediaLite.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\nunit.framework.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Optimization.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.Integration.Mvc.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Newtonsoft.Json.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Antlr3.Runtime.pdb
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csproj.CopyComplete
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Helpers.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Mvc.dll
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Helpers.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Mvc.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Razor.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Deployment.xml
+C:\Programming\Simons Applications\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Razor.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\ApplicationInsights.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.exe
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.exe.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.rsp
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csi.exe
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csi.rsp
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.AppContext.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.exe
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.exe.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.rsp
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\VBCSCompiler.exe
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.dll.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.Integration.Mvc.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\C5.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Fare.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FluentValidation.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\nunit.framework.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.ComponentModel.Primitives.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Helpers.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Mvc.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Razor.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Razor.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Optimization.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\WebGrease.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Newtonsoft.Json.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Antlr3.Runtime.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.dll.config
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.Integration.Mvc.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\EntityFramework.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Fare.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FluentValidation.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\nunit.framework.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Helpers.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Mvc.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Razor.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Razor.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Optimization.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Newtonsoft.Json.xml
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Antlr3.Runtime.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csprojResolveAssemblyReference.cache
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csproj.CoreCompileInputs.cache
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csproj.CopyComplete
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.pdb
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\NReco.Recommender.dll
+C:\Users\Simon's PC\OneDrive\BookWorm\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\NReco.Recommender.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\ApplicationInsights.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.exe
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.exe.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.rsp
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csi.exe
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csi.rsp
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.AppContext.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.exe
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.exe.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.rsp
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\VBCSCompiler.exe
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.dll.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.Integration.Mvc.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\C5.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Fare.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FluentValidation.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\NReco.Recommender.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\nunit.framework.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.ComponentModel.Primitives.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Helpers.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Mvc.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Razor.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Razor.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Optimization.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\WebGrease.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Newtonsoft.Json.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Antlr3.Runtime.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.dll.config
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.Integration.Mvc.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\EntityFramework.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Fare.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FluentValidation.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\NReco.Recommender.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\nunit.framework.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Helpers.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Mvc.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Razor.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Razor.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Optimization.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Newtonsoft.Json.xml
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Antlr3.Runtime.pdb
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csprojResolveAssemblyReference.cache
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csproj.CoreCompileInputs.cache
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csproj.CopyComplete
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.dll
+C:\Users\Simon's PC\Documents\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\ApplicationInsights.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.exe
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.exe.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csc.rsp
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csi.exe
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\csi.rsp
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.AppContext.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.IO.FileSystem.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.exe
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.exe.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\vbc.rsp
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\VBCSCompiler.exe
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.dll.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\BookwormTests.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.Integration.Mvc.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\C5.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Fare.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FluentValidation.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\NReco.Recommender.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\nunit.framework.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.ComponentModel.Primitives.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Helpers.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Mvc.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Razor.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Deployment.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Razor.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Optimization.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\WebGrease.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Newtonsoft.Json.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Antlr3.Runtime.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Bookworm.dll.config
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Autofac.Integration.Mvc.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\AutoFixture.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FakeItEasy.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Fare.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\FluentValidation.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\MathNet.Numerics.IO.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\NReco.Recommender.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\nunit.framework.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Helpers.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Mvc.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Razor.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Deployment.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.WebPages.Razor.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\System.Web.Optimization.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Newtonsoft.Json.xml
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\bin\Antlr3.Runtime.pdb
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csprojResolveAssemblyReference.cache
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csproj.CoreCompileInputs.cache
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.csproj.CopyComplete
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.dll
+C:\Project\2018-ca400-lowrys5\src\Bookworm\BookwormTests\obj\Debug\BookwormTests.pdb

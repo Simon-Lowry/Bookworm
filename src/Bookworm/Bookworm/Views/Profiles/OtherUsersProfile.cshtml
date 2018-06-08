@@ -1,0 +1,19 @@
+﻿@model Bookworm.ViewModels.Profiles.CombinedUserProfilesViewModel
+
+@{
+    ViewBag.Title = "Other User's Profile";
+}
+
+
+@Html.Partial("~/Views/PartialViews/Navbars/LoggedInNavBar.cshtml")
+
+
+@if (Model.UsersAreConnected == true)
+{
+    @Html.Partial("~/Views/PartialViews/Profiles/OtherUserProfileWhenConnected.cshtml")
+}
+else
+{
+    @Html.Partial("~/Views/PartialViews/Profiles/OtherUserProfileWhenNotConnected.cshtml")
+}
+

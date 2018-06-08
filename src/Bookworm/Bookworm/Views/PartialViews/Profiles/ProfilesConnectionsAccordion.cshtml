@@ -1,0 +1,57 @@
+﻿@using Bookworm.Models
+@model Bookworm.ViewModels.Profiles.MyProfileViewModel
+
+@{
+
+    int loopSize = (Model.MyConnections.ConnectionsProfileDetails.Count >= 11) ? 11 : Model.MyConnections.ConnectionsProfileDetails.Count;
+}
+
+<row>
+    <div class="col-xs-3 col-sm-3 col-md-3" style="position:relative; margin:0 auto;">
+        <button type="button" class="btn btn-info btn-lg" onclick="location.href = '@Url.Action("MyConnections", "Profiles")'">View All Connections</button>
+    </div>
+</row>
+
+@for (int i = 0; i < loopSize; i++)
+{
+    int otherUser_Id = Model.MyConnections.ConnectionsProfileDetails[i].UserId;
+    var otherUserDetails = Model.MyConnections.ConnectionsProfileDetails[i];
+
+    <div class="col-sm-3">
+        <div class="bookOverlayContainer" style="margin-bottom: 5%">
+            
+            
+            @if (@otherUserDetails.ProfileImgUrl != null)
+            {
+                <a href='@Url.Action("OtherUsersProfile", "Profiles", new {otherUsersId = otherUserDetails.UserId})'>
+                    <img src=@otherUserDetails.ProfileImgUrl class="bookImg">
+                </a>
+            }
+            else
+            {
+                <a href='@Url.Action("OtherUsersProfile", "Profiles", new {otherUsersId = otherUserDetails.UserId})'>
+                    <img src="~/Images/bookworm.jpg" class="img-circle" alt="Connection Profile Image">
+                </a>
+            }
+           
+            <a href='@Url.Action("OtherUsersProfile", "Profiles", new {otherUserId =  otherUser_Id})'>
+                <div class="bookOverlay">
+                    <div class="bookOverlaytext">
+                        @otherUserDetails.FirstName @otherUserDetails.LastName<br /> <br />
+                        @otherUserDetails.City<br />
+                        @otherUserDetails.Country
+
+                    </div>
+                </div>
+            </a>
+        </div>
+
+    </div>
+}
+
+@if (loopSize < 1)
+{
+    <p><i>User has no connections currently. Search out new connections using the search feature at the top of the page!</i></p>
+}
+
+

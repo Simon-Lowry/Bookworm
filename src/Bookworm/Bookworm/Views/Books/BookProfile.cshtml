@@ -1,0 +1,113 @@
+﻿@model Bookworm.ViewModels.Books.BookViewModel
+
+@{
+	ViewBag.Title = "Books Profile";
+}
+
+
+
+<body id="bookProfileContainer" style="font-size:18px">
+
+    @Html.Partial("~/Views/PartialViews/Navbars/LoggedInNavBar.cshtml")
+    <div class="container">
+
+
+    <div class="row" style="margin-top: 2%">
+        <div class="col-md-12 col-sm-12">
+            <div class="panel panel-primary">
+                <div class="panel-heading" id="bookProfileMainPanelHeader"><h2>Book Profile </h2></div>
+                <div class="panel-body" id="bookMainPanelBody">
+
+                    <div class="alert alert-success" style="display: none" id="msg-EditBookReviewSuccess">
+                        <strong>Update Successful</strong> - book review details updated.
+                    </div>
+                    <div class="alert alert-danger" style="display: none" id="msg-EditBookReviewFail">
+                        <strong>Error</strong> updating book review details.
+                    </div>
+
+                    <div class="alert alert-success" style="display: none" id="msg-CreateBookReviewSuccess">
+                        <strong>Update Successful</strong> - book review details updated.
+                    </div>
+                    <div class="alert alert-danger" style="display: none" id="msg-CreateBookReviewFail">
+                        <strong>Error</strong> updating book review details.
+                    </div>
+                    
+                    <div class="alert alert-success" style="display: none" id="msg-CreateConnectionSuccess">
+                        <strong>Connection Cre</strong> - book review details updated.
+                    </div>
+                    <div class="alert alert-danger" style="display: none" id="msg-CreateConnectionFail">
+                        <strong>Error</strong> updating book review details.
+                    </div>
+
+                  
+                    <div class="col-md-5">
+
+                        <div class="panel panel-primary">
+                            <div class="panel-heading" id="bookImagePanelHeader"><br /></div>
+
+                            <div class="panel-body" align="center">
+                                <img src="@Url.Content(Model.BookDetails.BookImgUrl)" alt="Image" id="bookProfileImgs" style="width:80%; height: 300px;" />
+                                <br /><br />
+                                @Html.Partial("~/Views/PartialViews/BookButtons.cshtml", @Model)
+                            </div>
+
+                            @Html.Partial("~/Views/PartialViews/CreateReviewModal.cshtml", @Model)
+                            @Html.Partial("~/Views/PartialViews/EditReviewModal.cshtml", @Model)
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <div class="panel panel-primary">
+                            <div class="panel-heading" id="bookProfileInfoPanelHeader"> <h2>@Model.BookDetails.Title </h2></div>
+                            <div class="panel-body">
+                                <div class="container" style="margin-bottom: 3%">
+                                    <ul class="nav nav-pills">
+                                        <li class="active"><a data-toggle="pill" href="#bookDescription">Description</a></li>
+                                        <li><a data-toggle="pill" href="#reviews">Reviews</a></li>
+                                    </ul>
+                                </div>
+
+                                <div class="tab-content">
+                                    <div id="bookDescription" class="tab-pane fade in active">
+                                        <br />
+                                        <b></b>Avg Rating: @Model.BookDetails.AvgRating<br /> <br /> <br />
+                                        <b></b> Author(s): @Model.BookDetails.Authors <br /> <br /><br />
+                                        <b></b>Language: @Model.BookDetails.Language <br /> <br /><br />
+                                        <b></b>ISBN: @Model.BookDetails.Isbn <br /> <br /><br />
+                                        <b></b>Description: @Model.BookDetails.Description <br /> <br />
+                                    </div>
+                                    <div id="reviews" class="tab-pane fade">
+                                        <h3>Reviews</h3>
+                                        @if (@Model.AllReviewsForBook != null)
+                                        {
+                                            foreach (var bookReview in @Model.AllReviewsForBook)
+                                            {
+
+                                                <div class="item">
+                                                    Reviewer: @bookReview.User.FirstName @bookReview.User.LastName<br />
+                                                    Rating Given: @bookReview.Rating<br /> <br />
+                                                    Description:<br />@bookReview.Description<br />
+
+                                                </div>
+                                                <hr />
+                                            }
+                                        }
+                                        else
+                                        {
+                                            <p>
+                                                No books were found using for the given search query.
+                                            </p>
+                                        }
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+</body>

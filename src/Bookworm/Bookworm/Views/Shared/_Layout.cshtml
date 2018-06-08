@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Bookworm</title>
+    @Styles.Render("~/Content/css")
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">,
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+
+	@RenderBody()
+	<hr />
+	<footer>
+		<p style="color:white">&copy; @DateTime.Now.Year - BookWorm - 4th Year Project by Simon Lowry</p>
+	</footer>
+
+	@Scripts.Render("~/bundles/jquery")
+	@Scripts.Render("~/bundles/bootstrap")
+	@Scripts.Render("~/bundles/bootstrap.min")
+	@Scripts.Render("~/bundles/books")
+	@RenderSection("scripts", required: false)
+</body>
+</html>

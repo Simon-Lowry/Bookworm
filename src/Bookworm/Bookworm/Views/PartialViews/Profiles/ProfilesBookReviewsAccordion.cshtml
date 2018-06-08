@@ -1,0 +1,72 @@
+﻿@using Bookworm.Models
+@using Bookworm.ViewModels.Books
+@model Bookworm.ViewModels.Profiles.MyProfileViewModel
+
+
+
+@{
+
+    int loopSize = (@Model.MyBookReviews.MyBookReviews.Count >= 11) ? 11 : @Model.MyBookReviews.MyBookReviews.Count;
+
+}
+
+<row>
+    <div class="col-xs-3 col-sm-3 col-md-3" align="center" style="margin: 0 auto;">
+        <button type="button" class="btn btn-info btn-lg" onclick="location.href = '@Url.Action("MyBookReviews", "Profiles")'">View All Book Reviews</button>
+    </div>
+</row>
+<row>
+    @for (var z = 0; z < loopSize; z++)
+    {
+
+        var bookDetails = @Model.MyBookReviews.MyBookReviewsBookDetails[z];
+        var bookReview = @Model.MyBookReviews.MyBookReviews[z];
+
+        BookViewModel bookViewModel = new BookViewModel();
+        bookViewModel.BookReview = bookReview;
+        bookViewModel.BookDetails = bookDetails;
+
+        <div class="col-sm-3">
+
+            <div class="col-sm-3">
+                <div class="bookOverlayContainer" style="margin-bottom: 5%">
+
+                    @if (@bookDetails.BookImgUrl != "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png")
+                    {
+                        <a href='#' class="openReadOnlyModal">
+                            <img src=@bookDetails.BookImgUrl class="bookImg">
+                        </a>
+                    }
+                    else
+                    {
+                        <a href='#' class="openReadOnlyModal">
+                            <img src="~/Images/bookworm.jpg" class="img-circle" alt="Connection Profile Image">
+                        </a>
+                    }
+
+                    <a a href='#' class="openReadOnlyModal">
+                        <div class="bookOverlay">
+                            <div class="bookOverlaytext" >
+                                @bookDetails.Title<br /> <br />
+                                Authors:  @bookDetails.Authors <br />
+                                My Rating:  @bookReview.Rating <br />
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        @Html.Partial("~/Views/PartialViews/ReadOnlyBookReviewModal.cshtml", bookViewModel)
+    
+
+    }
+</row>
+
+
+
+@if (loopSize < 1)
+{
+    <p><i>User curently has no reviews. Search out books to review using the search feature at the top of the page!</i></p>
+}

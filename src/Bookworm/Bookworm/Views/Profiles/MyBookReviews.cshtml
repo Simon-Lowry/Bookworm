@@ -1,0 +1,65 @@
+﻿@using System.Web.Mvc.Html
+@using Bookworm.ViewModels.Books
+@model Bookworm.ViewModels.Profiles.MyBookReviewsDetails
+
+@{
+    ViewBag.Title = "My Book Reviews View";
+}
+
+@Html.Partial("~/Views/PartialViews/Navbars/LoggedInNavBar.cshtml")
+
+
+<body id="myBookReviewsBody">
+    <div class="container" style="margin-top:2%">
+        <div class="panel">
+            <div class="panel-heading" id="panels">
+                <H2>Your Book Reviews</H2>
+                <h4> <i>A list of all the Book reviews you've made.</i></h4>
+                <br />
+            </div>
+            <div class="panel-body">
+               
+                @for (int i = 0; i < Model.MyBookReviews.Count; i++)
+                {
+                    var bookReview = Model.MyBookReviews[i];
+                    var bookDetails = Model.MyBookReviewsBookDetails[i];
+
+                    BookViewModel bookViewModel = new BookViewModel();
+                    bookViewModel.BookReview = bookReview;
+                    bookViewModel.BookDetails = bookDetails;
+
+                    <div class="col-sm-3">
+                        <div class="bookOverlayContainer" style="margin-bottom: 5%">
+                            
+                            
+                            @if (@bookDetails.BookImgUrl != "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png")
+                            {
+                                <a href='#' type="button" class="readOnlyBookReviewModal" data-toggle="modal" data-target="#readOnlyBookReviewModal">
+                                    <img src=@bookDetails.BookImgUrl class="bookImg">
+                                </a>
+                            }
+                            else
+                            {
+                                <a href='#' type="button" class="readOnlyBookReviewModal" data-toggle="modal" data-target="#readOnlyBookReviewModal">
+                                    <img src="~/Images/bookworm.jpg" class="bookImg">
+                                </a>
+                            }
+                            <a href='#' class="openReadOnlyModal">
+                                <div class="bookOverlay">
+                                    <div class="bookOverlaytext">
+                                        @bookDetails.Title<br /> <br />
+                                        Authors: @bookDetails.Authors <br /><br />
+                                        My Rating: @bookReview.Rating <br />
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    @Html.Partial("~/Views/PartialViews/ReadOnlyBookReviewModal.cshtml", @bookViewModel)
+                  
+                }
+                
+            </div>
+        </div>
+    </div>
+</body>

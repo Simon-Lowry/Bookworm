@@ -1,0 +1,44 @@
+﻿@model Bookworm.ViewModels.Profiles.MyToReadDetails
+
+@{
+    ViewBag.Title = "My Book Shelf View";
+}
+
+@Html.Partial("~/Views/PartialViews/Navbars/LoggedInNavBar.cshtml")
+
+<body id="myBooksToReadBody">
+    <div class="container" style="margin-top:2%">
+        <div class="panel panel-success">
+            <div class="panel-heading" id="recommenderPanelHeader">
+                <H2>Book Shelf</H2>
+                <h4> <i>Books you've decided you'd like to read</i></h4>
+                <br />
+            </div>
+            <div class="panel-body">
+
+                @for (int i = 0; i < Model.ToReadBooksDetails.Count; i++)
+                {
+                    var book = Model.ToReadBooksDetails[i];
+                    <div class="col-sm-3">
+                        <div class="bookOverlayContainer" style="margin-bottom: 5%">
+
+                            <a href='@Url.Action("BookProfile", "Books", new {bookId = book.BookId})'>
+                                <img src=@book.BookImgUrl class="bookImg">
+                            </a>
+
+                            <a href='@Url.Action("BookProfile", "Books", new {bookId = book.BookId})'>
+                                <div class="bookOverlay">
+                                    <div class="bookOverlaytext">
+                                        @book.Title<br /> <br />
+                                        Authors: @book.Authors <br /><br />
+                                        Avg Rating: @book.AvgRating <br />
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</body>

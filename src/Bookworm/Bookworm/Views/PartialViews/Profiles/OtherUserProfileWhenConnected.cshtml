@@ -1,0 +1,94 @@
+﻿@model Bookworm.ViewModels.Profiles.CombinedUserProfilesViewModel
+
+<body id="myProfileScreen">
+    <div class="row" align="center">
+        <br /><br />
+              <div class="col-md-6">
+
+                  @if (@Model.OtherUserDetails.ProfileImgUrl != null)
+                    {
+                        <img src=@Model.OtherUserDetails.ProfileImgUrl class="img-circle" alt="Profile Image" width="320">
+                    }
+                    else
+                    {
+                        <img src="~/Images/bookworm.jpg" class="img-circle" alt="Profile Image" width="320">
+                    }
+              </div>
+
+        <div class="col-md-3">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h2>
+                        @Model.OtherUserDetails.FirstName's Profile
+                    </h2>
+                </div>
+                <div class="panel-body">
+                    <h4>
+                        @Model.OtherUserDetails.FirstName @Model.OtherUserDetails.LastName<br /><br />
+                        Country: @Model.OtherUserDetails.Country<br /><br />
+                        Date of Birth: @Model.OtherUserDetails.DOB<br /><br />
+                        Email: @Model.OtherUserDetails.Email<br /><br />
+                    </h4>
+                </div>
+                <button type="button" class="btn btn-danger btn-lg" onclick="location.href = '@Url.Action("DeleteConnectionBetweenUsers", "Profiles", @Model)'">Remove Connection</button>
+                <br /> <br />
+            </div>
+
+
+        </div>
+        <div class="col-md-2"></div>
+        <br /><br /><br />
+
+    </div>
+
+    <div class="row" align="center" style="margin-top:5%">
+        <button class="accordion">
+            <h4 class="panel-title">
+                @Model.OtherUserDetails.FirstName's Connections
+            </h4>
+        </button>
+        <div class="panel" id="accodionPanel">
+
+            @Html.Partial("~/Views/PartialViews/Profiles/OtherProfilesConnectionsAcc.cshtml", Model)
+        </div>
+
+        <button class="accordion"><h4 class="panel-title"> @Model.OtherUserDetails.FirstName's Book Reviews</h4></button>
+        <div class="panel" id="accodionPanel">
+
+            @Html.Partial("~/Views/PartialViews/Profiles/OtherProfilesBookReviewAccordion.cshtml", Model)
+        </div>
+        <button class="accordion">
+            <h4 class="panel-title"> @Model.OtherUserDetails.FirstName's Book Shelf - To Read</h4>
+        </button>
+        <div class="panel" id="accodionPanel">
+
+            @Html.Partial("~/Views/PartialViews/Profiles/OtherProfilesToReadAcc.cshtml", Model)
+        </div>
+    </div>
+    <br /><br />
+
+</body>
+
+
+
+    <script>
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+
+        for (i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function () {
+                /* Toggle between adding and removing the "active" class,
+                to highlight the button that controls the panel */
+                this.classList.toggle("active");
+
+                /* Toggle between hiding and showing the active panel */
+                var panel = this.nextElementSibling;
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                } else {
+                    panel.style.display = "block";
+                }
+            });
+        }
+    </script>
+
